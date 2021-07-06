@@ -14,3 +14,15 @@
 - [transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
     - [translate](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate())
 
+### CSS animation of the header text
+
+- [@keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
+- [animation-name](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-name)
+- [animation-duration](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-duration)
+- [animation-delay](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-delay)
+- [animation-iteration-count](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-iteration-count)
+- [animation-timing-function](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function)
+
+
+
+
