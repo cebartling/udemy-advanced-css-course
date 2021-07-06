@@ -24,6 +24,3 @@
 - [animation-timing-function](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function)
 - [backface-visibility](https://developer.mozilla.org/en-US/docs/Web/CSS/backface-visibility)
 
-
-
-
