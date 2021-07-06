@@ -22,6 +22,7 @@
 - [animation-delay](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-delay)
 - [animation-iteration-count](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-iteration-count)
 - [animation-timing-function](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function)
+- [backface-visibility](https://developer.mozilla.org/en-US/docs/Web/CSS/backface-visibility)
 
 
 
