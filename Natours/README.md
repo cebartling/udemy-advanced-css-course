@@ -22,3 +22,39 @@
 - [animation-timing-function](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function)
 - [backface-visibility](https://developer.mozilla.org/en-US/docs/Web/CSS/backface-visibility)
 
+## Pillars of Good HTML and CSS
+
+### Responsive web design
+
+- Fluid layouts
+- Media queries
+- Responsive images
+- Correct units
+- Desktop-first vs. mobile-first
+
+### Maintainable and scalable code
+
+- Clean
+- Easy-to-understand
+- Growth
+- Reusable
+- How to organize files
+- How to name CSS classes
+- How to structure HTML
+
+### Web performance
+
+- Less HTTP requests
+- Less code
+- Compress code
+- Use a CSS pre-processor
+- Less image use
+- Compress images
+
+## Parsing CSS
+
+### The Cascade
+
+- Process of combining different style sheets and resolving conflicts between different CSS rules and declarations, when
+  more than one rule applies to a certain element.
+
