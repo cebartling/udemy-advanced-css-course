@@ -57,4 +57,16 @@
 
 - Process of combining different style sheets and resolving conflicts between different CSS rules and declarations, when
   more than one rule applies to a certain element.
+- Importance > Specificity > Source Order
+- Importance ordering:
+  - User `!important` declarations
+  - Author `!important` declarations
+  - Author declarations
+  - User declarations
+  - Default browser declarations
+- Specificity ordering:
+  - Inline styles
+  - IDs
+  - Classes, pseudo-classes, attribute
+  - Elements, pseudo-elements
 
